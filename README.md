@@ -1,5 +1,5 @@
 ### Hi there 👋
-Gradivo informatike osnovne skole
+Gradivo 8. razreda informatike osnovne skole
 <!--
 **informatikadusica9/informatikadusica9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
