@@ -1,0 +1,22 @@
+from turtle import*
+shape("turtle")
+color("red")
+width(5)
+lt(90)
+fd(20)
+rt(90)
+fd(90)
+#gornji
+color("grey")
+lt(110)
+fd(70)
+lt(70)
+fd(30)
+lt(80)
+fd(67)
+lt(100)
+#donji
+color("red")
+fd(90)
+rt(90)
+fd(20)
